@@ -1,0 +1,24 @@
+{
+  "name": "marines-scrap-services",
+  "version": "1.0.0",
+  "description": "Servicios relacionados con las navieras para el itinerario y el tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjigen3D/marines-scrap-services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjigen3D/marines-scrap-services/issues"
+  },
+  "homepage": "https://github.com/sanjigen3D/marines-scrap-services#readme",
+  "dependencies": {
+    "@sparticuz/chromium": "^138.0.1",
+    "playwright-core": "^1.54.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "functions": {
+        "api/scraper.js": {
+            "memory": 1024,
+            "maxDuration": 10
+        }
+    },
+    "routes": [
+        {
+            "src": "/api/scraper",
+            "dest": "api/scraper.js"
+        }
+    ]
+}
